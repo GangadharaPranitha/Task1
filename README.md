@@ -1,3 +1,4 @@
+KeshavSoft – Bootstrap 5 UI Project
 
 This is a responsive, multi-page website created using Bootstrap 5 and custom CSS. The design leverages modern UI principles with creative touches like 3D tilt effects, radial gradients, and responsive layouts. This project was developed as part of an internship assignment to demonstrate frontend development skills using Bootstrap and custom design logic.
 
@@ -47,8 +48,8 @@ Interactive 3D tilt animation on service cards
 Fully responsive from desktop to mobile
 Elegant font styling and smooth shadows
 Adaptive layout for all screen sizes
-🔗 Live Demo: https://task-1-keshavsoft.netlify.app/
-KeshavSoft – Bootstrap 5 UI Project
+🔗 Live Demo:https://designlabstask.netlify.app/
+
 Alignment with Internship Task
 Bootstrap 5 used via CDN only
 Combined and styled components originally
